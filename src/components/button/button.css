@@ -1,0 +1,29 @@
+
+.buttons{
+    margin-left: 500px;
+    margin-top: 30px;
+    padding-bottom: 40px;
+}
+.first_button{
+    padding: 10px 20px;
+    color: #84757D;
+    background: #fff;
+    border: 1px solid #84757D;
+    font-size: 20px;
+    border-radius: 2px 0 0 2px;
+}
+.second_button{
+    padding: 10px 20px;
+    background: black;
+    color: #fff;
+    border: 1px solid #84757D;
+    font-size: 20px;
+}
+.third_button{
+    padding: 10px 15px;
+    color: blue;
+    background: #fff;
+    border: 1px solid #84757d;
+    font-size: 20px;
+    border-radius: 0 2px 2px 2px;
+}

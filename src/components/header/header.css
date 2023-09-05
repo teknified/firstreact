@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    background-color: #343a34;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.navigation a{
+    text-decoration: none;
+    font-size: 1.5em;
+    margin-right: 10px;
+    color: #6C757D;
+}
+.change_color{
+    color: #fff;
+}
+h1{
+    margin-left: 20px;
+    font-size: x-large;
+    font-weight: bolder;
+}

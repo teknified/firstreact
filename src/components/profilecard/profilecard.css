@@ -1,0 +1,32 @@
+
+.cover{
+    background-color: #f6f6f6;
+}
+h1{
+    font-size: 40px;
+    font-weight: 600px;
+    
+}
+h4{
+    margin-left: 110px;
+    font-weight: 5;
+    margin-top: 30px;
+}
+p{
+    margin-top: 10px;
+    color: #6c757d;
+    margin-left: 20px;
+    font-size: larger;
+    font-weight: 4;
+}
+.delphar{
+    width: 350px;
+    height: 30vh;
+    background-color: #313131;
+    color: #fff;
+    margin-left: 500px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

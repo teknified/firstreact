@@ -1,0 +1,14 @@
+
+.list{
+    display: flex;
+    padding: 5px 50px;
+    background-color: #fff;
+    border: 1px solid #dfdfdf;
+    color: blue;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.date,.likes{
+    margin-left: 210px;
+}
